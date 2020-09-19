@@ -41,6 +41,7 @@
           }
         }
       ],
+      "no-useless-constructor": "off",
       "prettier/prettier": "error",
       "class-methods-use-this": "off",
       "camelcase": "off",
